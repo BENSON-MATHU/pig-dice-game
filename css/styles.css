@@ -1,0 +1,32 @@
+body{
+   background-image: url("https://vignette.wikia.nocookie.net/gyropedia/images/4/42/132219378913.jpg/revision/latest?cb=20111220030934");
+}
+#profile-pics{
+    height: 6%;
+    width:20%;
+}
+#roller{
+  text-align: center;
+}
+#start-roll{
+  font-size: 10px;
+}
+#first-player-col{
+  background-color: #0FF6FF;
+}
+#second-player-col{
+   background-color: #27B3E7;
+}
+.buttons-holder-panel{
+  height: 250px;
+}
+#roll-dice{
+  border-color: #E727C4;
+  border-width: thick;
+}
+.jumbotron{
+  padding: 0px;
+}
+#sec-palyer-roll-dice{
+  display: none;
+}
